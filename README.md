@@ -2,7 +2,7 @@
 Set limits on how many servers you can join and how many msgs you can send per day
 
 ## Why the heck would i wanna do this?
-Because discord can make some people go CrAzY, and it negatively impacts their mental state. Trust me, i know too many people that appear to go thru this without realising it. Are they going to use this? Probably not, unless they're one of the few that can admit to themselves that they have a problem.
+Because Discord can make some people go CrAzY, and it negatively impacts their mental state. Trust me, I know too many people that appear to go thru this without realising it. Are they going to use this? Probably not, unless they're one of the few that can admit to themselves that they have a problem.
 
 Although Discord is extremely useful, it's totally addicting. Undoubtedly.
 
